@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b24df64542829b54d800ec352b3ea1c5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ma Shan Zheng
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4abf2ae318a3f5e40bb59fcf611f56ab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
